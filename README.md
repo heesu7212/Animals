@@ -1,2 +1,2 @@
 # Animals
-Solution for BaekJoon Question #25083, #10171, #10172.
+My solution for BaekJoon Question #25083, #10171, #10172.
